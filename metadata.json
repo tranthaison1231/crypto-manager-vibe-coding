@@ -1,0 +1,5 @@
+{
+  "name": "CryptoManager",
+  "description": "A comprehensive crypto portfolio management dashboard featuring wallet integration, transaction history, asset allocation, and detailed settings.",
+  "requestFramePermissions": []
+}
